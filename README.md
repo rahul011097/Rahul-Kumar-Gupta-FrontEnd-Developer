@@ -55,18 +55,22 @@ npx create-react-app
     
 ## Demo
 
-Host Link :
-
-https://rahul-kumar-gupta-front-end-developer.vercel.app/
-
 Live Video Link :
 
 https://drive.google.com/file/d/1pS5tYagzr8NQ_3tIEQTA2jkJo92amZ_4/view?usp=drive_link 
 
+Host Link :
+
+https://rahul-kumar-gupta-front-end-developer.vercel.app/
+
+
+
 ## screenshot
 <img width="960" alt="tss-1" src="https://github.com/rahul011097/Rahul-Kumar-Gupta-FrontEnd-Developer/assets/116966976/5c37c9de-c74d-43ee-851b-91c11f328165">
-<img width="960" alt="tss3" src="https://github.com/rahul011097/Rahul-Kumar-Gupta-FrontEnd-Developer/assets/116966976/5be3395e-bff8-40df-840b-19cb6bb4446f">
+
 <img width="960" alt="tss2" src="https://github.com/rahul011097/Rahul-Kumar-Gupta-FrontEnd-Developer/assets/116966976/9a5d69ad-5479-4644-a295-d53a478bb92c">
+
+<img width="960" alt="tss3" src="https://github.com/rahul011097/Rahul-Kumar-Gupta-FrontEnd-Developer/assets/116966976/5be3395e-bff8-40df-840b-19cb6bb4446f">
 
 
 
