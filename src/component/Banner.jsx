@@ -13,7 +13,7 @@ const Banner = () => {
         autoPlay
         showStatus={false}
         showThumbs={false}
-        interval={1000}
+        interval={2000}
       >
         <div>
           <div className="relative">
@@ -23,7 +23,7 @@ const Banner = () => {
               className="w-full lg:h-[95vh] h-[70vh]"
             ></img>
           </div>
-          <div className="absolute flex flex-col lg:top-[50%] lg:left-[6%] top-[50%] left-[13%] sm:top-[30%] md:top-[50%] ">
+          <div className="absolute flex flex-col lg:top-[50%] lg:left-[6%] top-[30%] left-[10%] sm:top-[30%] md:top-[50%] ">
             <span className="text-white lg:text-lg text-xl font-semibold uppercase tracking-wide mb-2">
               RECENT LAUNCH
             </span>
@@ -35,7 +35,7 @@ const Banner = () => {
               Beyond borders, beyond imagination
             </p>
             <div className="mt-4">
-              <button className="lg:px-4 lg:py-2 px-3 py-1 bg-transparent text-white uppercase text-xl border-[2px] hover:bg-white hover:text-black border-white ">
+              <button className="lg:px-4 lg:py-2 px-2 py-1 bg-transparent text-white uppercase lg:text-xl text-base border-[2px] hover:bg-white hover:text-black border-white ">
                 Learn More
               </button>
             </div>
@@ -49,7 +49,7 @@ const Banner = () => {
               className="w-full lg:h-[95vh] h-[70vh]"
             ></img>
           </div>
-          <div className="absolute flex flex-col top-[50%] left-[8%]  sm:top-[35%] md:top-[50%] ">
+          <div className="absolute flex flex-col top-[30%] left-[8%]  sm:top-[35%] md:top-[50%] ">
             <span className="text-white lg:text-lg text-xl font-semibold uppercase tracking-wide mb-2">
               COMPLETED MISSION
             </span>
@@ -61,7 +61,7 @@ const Banner = () => {
               One Planet, One Universe, One Future.
             </p>
             <div className="mt-4">
-              <button className="lg:px-4 lg:py-2 px-3 py-1 bg-transparent text-white uppercase text-xl border-[2px] hover:bg-white hover:text-black border-white ">
+              <button className="lg:px-4 lg:py-2 px-2 py-1 bg-transparent text-white uppercase lg:text-xl text-base border-[2px] hover:bg-white hover:text-black border-white ">
                 Learn More
               </button>
             </div>
@@ -75,7 +75,7 @@ const Banner = () => {
               className="w-full lg:h-[95vh] h-[70vh]"
             ></img>
           </div>
-          <div className="absolute flex flex-col top-[50%] left-[6%] lg:w-[40%] w-[90%] sm:top-[30%] md:top-[50%] ">
+          <div className="absolute flex flex-col lg:top-[30%] top-[40%] left-[6%]  lg:w-[50%] w-[90%] sm:top-[30%] md:top-[50%] ">
             <span className="text-white lg:text-lg text-xl font-semibold uppercase tracking-wide mb-2">
               TAKING HUMANS TO SPACE
             </span>
@@ -91,7 +91,7 @@ const Banner = () => {
               commercial astronauts to Earth orbit, the ISS or beyond.
             </p>
             <div className="mt-4">
-              <button className="lg:px-4 lg:py-2 px-3 py-1 bg-transparent text-white uppercase text-xl border-[2px] hover:bg-white hover:text-black border-white ">
+              <button className="lg:px-4 lg:py-2 px-2 py-1 bg-transparent text-white uppercase lg:text-xl text-base border-[2px] hover:bg-white hover:text-black border-white ">
                 Learn More
               </button>
             </div>

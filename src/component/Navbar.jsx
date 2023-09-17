@@ -33,7 +33,7 @@ const Navbar = () => {
   return (
     <>
     <nav className={`bg-transprent text-white flex justify-between items-center px-10 lg:py-2 py-0 transition ease-in-out delay-300 ${Sticky ? 'sticky' : 'bg-[#333] fixed top-0 right-0 left-0 z-[1000]'}`}>
-    <div ><a href='/' className='font-bold text-3xl text-red-500' onClick={goTop}>Rahul.dev</a></div>
+    <div ><Link href='Home' className='font-bold text-3xl text-red-500' onClick={goTop}>Rahul.dev</Link></div>
         
         <ul className='hidden md:flex'>
             <li 
@@ -59,7 +59,7 @@ className=" px-4  font-medium text-white  cursor-pointer text-lg hover:scale-105
                 <ul className='flex flex-col  justify-center  items-center absolute top-[57px] left-0 w-full h-screen
                 text-gray-500  bg-gradient-to-b from-black to-gray-800 '>
                    <li className='px-4 uppercase cursor-pointer  py-6  text-4xl'><a href='#Home'>Home</a></li>
-                   <li className='px-4 cursor-pointer uppercase py-6  text-4xl'><a href='#About'>Capsul</a></li>
+                   <li className='px-4 cursor-pointer uppercase py-6  text-4xl'><a href='#Product'>Capsul</a></li>
                  
    
                  </ul>
